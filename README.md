@@ -99,15 +99,15 @@ Provide instructions on how to set up and run the frontend development server.
 Write an overview of the entire project, including its purpose and architecture.
 Include any additional information or considerations for future development.
 
-## Step 5: Scripts
+** Step 5: Scripts**
 
-### Backend Scripts
+**Backend Scripts**
 Write scripts to start the backend server and import CSV data.
 
-### Frontend Scripts
+**Frontend Scripts**
 Write scripts to start the frontend development server.
 
-### Project Scripts
+**Project Scripts**
 Write scripts to start both the backend and frontend servers concurrently.
 
 Feel free to customize this documentation further to suit your project's specific details and requirements!
